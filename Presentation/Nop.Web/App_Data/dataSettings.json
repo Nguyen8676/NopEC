@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "server=127.0.0.1;database=myshop;allowuservariables=True;user id=root;password=Cnn86764012@",
+  "DataProvider": "mysql",
+  "RawDataSettings": {}
+}

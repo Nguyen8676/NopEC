@@ -1,0 +1,16 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "LiveSupporti Live Chat",
+  "SupportedVersions": [
+    "4.30"
+  ],
+  "Author": "LiveSupporti",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.LiveSupportiChat.dll",
+  "Description": "This plugin allows you to add live chat to your website",
+  "LimitedToStores": [],
+  "LimitedToCustomerRoles": [],
+  "DependsOnSystemNames": [],
+  "SystemName": "Widgets.LiveSupportiChat",
+  "Version": "1.0"
+}

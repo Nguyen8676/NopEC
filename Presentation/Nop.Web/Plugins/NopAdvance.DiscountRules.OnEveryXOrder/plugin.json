@@ -1,0 +1,18 @@
+﻿{
+  "Group": "NopAdvance",
+  "FriendlyName": "On Every X Customer Order",
+  "SupportedVersions": [
+    "4.30"
+  ],
+  "Author": "NopAdvance team",
+  "DisplayOrder": 1,
+  "FileName": "NopAdvance.Plugin.DiscountRules.OnEveryXOrder.dll",
+  "Description": "This plugin allows you to configure discounts on every x customer order.",
+  "LimitedToStores": [],
+  "LimitedToCustomerRoles": [
+    3
+  ],
+  "DependsOnSystemNames": [],
+  "SystemName": "NopAdvance.Plugin.DiscountRules.OnEveryXOrder",
+  "Version": "1.0.0"
+}

@@ -1,0 +1,11 @@
+﻿<Language Name="English" IsDefault="true" IsRightToLeft="false">
+  <LocaleResource Name="Plugins.DiscountRules.OnEveryXOrder.Fields.OrderXCount">
+    <Value>Apply discount on every Order X</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.OnEveryXOrder.Fields.OrderXCount.Hint">
+    <Value>Discount will be applied on every Order X</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.OnEveryXOrder.NotEnough">
+    <Value>Sorry, this offer requires more orders</Value>
+  </LocaleResource>
+</Language>
